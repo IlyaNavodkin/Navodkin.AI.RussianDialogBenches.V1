@@ -1,0 +1,15 @@
+{
+  "name": "russian-chat-bench",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Бенчмарк локальных LLM на живом русском диалоге: напрямую и через переводчик RU→EN→RU (llama.cpp).",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19"
+  },
+  "scripts": {
+    "bench:dialog": "node scripts/dialog-bench.mjs",
+    "bench:compare": "node scripts/bench.mjs",
+    "llm": "node scripts/llm.mjs"
+  }
+}

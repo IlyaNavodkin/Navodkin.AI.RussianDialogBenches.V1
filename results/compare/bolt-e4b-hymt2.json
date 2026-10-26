@@ -1,0 +1,757 @@
+{
+  "settings": {
+    "memoryN": 0,
+    "streamOut": true,
+    "brain": {
+      "baseUrl": "http://127.0.0.1:8180/v1",
+      "model": "brain",
+      "noThinking": "on"
+    },
+    "translator": {
+      "baseUrl": "http://127.0.0.1:8181/v1",
+      "model": "translator",
+      "profile": "hymt"
+    }
+  },
+  "roles": {
+    "brain": {
+      "baseUrl": "http://127.0.0.1:8180/v1",
+      "model": "brain"
+    },
+    "translator": {
+      "baseUrl": "http://127.0.0.1:8181/v1",
+      "model": "translator",
+      "profile": "hymt"
+    }
+  },
+  "rows": [
+    {
+      "id": "c_e2537ee87f7e",
+      "at": "2026-10-26T13:39:23.317Z",
+      "questionId": "m_b01ec174df5a",
+      "question": "Привет, как сам? Чем занимаешься?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Привет, я в порядке. Я помогаю пользователям с их вопросами. Чем могу помочь тебе сегодня.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2484,
+          "ttftMs": 824,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 824,
+          "totalMs": 2485
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "У меня все в порядке, спасибо. Я помогаю пользователям с информацией и выполнением задач.",
+        "en": "I am fine thank you I assist users with information and tasks",
+        "qEn": "Hello, how are you? What do you do?",
+        "timings": {
+          "inMs": 385,
+          "brainMs": 2371,
+          "ttftMs": 1337,
+          "outMs": 1265,
+          "outWorkMs": 1265,
+          "firstRuMs": 4021,
+          "totalMs": 4021
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_1439c7cc9336",
+      "at": "2026-10-26T13:39:29.849Z",
+      "questionId": "m_c0edc6c6bedf",
+      "question": "Подскажи, как быстро заварить чай без чайника?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Положи чайную заварку в кружку и залей кипятком из чайника или термоса. Дай настояться пару минут и наслаждайся.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 3446,
+          "ttftMs": 399,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 399,
+          "totalMs": 3446
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Используйте чашку или маленький стакан вместо чайника. Налейте горячую воду в чайный пакетик и дайте ему настояться несколько минут.",
+        "en": "Use a mug or a small cup instead of a teapot. Pour hot water over the tea bag and let it steep for a few minutes.",
+        "qEn": "Tell me how to brew tea quickly without a teapot?",
+        "timings": {
+          "inMs": 495,
+          "brainMs": 4154,
+          "ttftMs": 409,
+          "outMs": 1014,
+          "outWorkMs": 2935,
+          "firstRuMs": 4239,
+          "totalMs": 5663
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_6f15fc486f8f",
+      "at": "2026-10-26T13:39:38.979Z",
+      "questionId": "m_21468ea3f0fa",
+      "question": "Объясни, чем ипотека отличается от потребительского кредита. Только коротко.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Ипотека выдается под залог недвижимости, а потребительский кредит — под поручительство. Срок и размер кредита у ипотеки обычно больше.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 3299,
+          "ttftMs": 487,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 487,
+          "totalMs": 3299
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Ипотека – это кредит, обеспеченный недвижимостью, в то время как потребительский кредит, как правило, не обеспечен никаким залогом. Залог в ипотеке обеспечивает кредитору дополнительную безопасность.",
+        "en": "A mortgage is a loan secured by real estate while a consumer loan is typically unsecured. The collateral in a mortgage provides extra security for the lender.",
+        "qEn": "Explain how a mortgage differs from a consumer loan. Just briefly.",
+        "timings": {
+          "inMs": 427,
+          "brainMs": 3593,
+          "ttftMs": 407,
+          "outMs": 1633,
+          "outWorkMs": 3376,
+          "firstRuMs": 4755,
+          "totalMs": 5653
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_41356810cf1b",
+      "at": "2026-10-26T13:39:47.947Z",
+      "questionId": "m_70a565ea7faa",
+      "question": "Ты чего сегодня такой тупой? Соберись уже.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Прости, я постараюсь быть внимательнее. Чем могу помочь прямо сейчас.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 1775,
+          "ttftMs": 364,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 364,
+          "totalMs": 1775
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Я здесь, чтобы помочь вам с вашими вопросами. Пожалуйста, сообщите мне, с чем вам нужна помощь.",
+        "en": "I am here to help you with your questions. Please let me know what you need assistance with.",
+        "qEn": "Why are you so stupid today? Get yourself together.",
+        "timings": {
+          "inMs": 363,
+          "brainMs": 2633,
+          "ttftMs": 388,
+          "outMs": 766,
+          "outWorkMs": 2012,
+          "firstRuMs": 2832,
+          "totalMs": 3762
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_625b0ce1b4ce",
+      "at": "2026-10-26T13:39:53.498Z",
+      "questionId": "m_499ffe6baece",
+      "question": "Врач сказал, что у меня всё как с гуся вода. Это хорошо или плохо?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Это значит, что ваше состояние стабильное и без серьезных отклонений. В целом это хороший знак.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2168,
+          "ttftMs": 425,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 425,
+          "totalMs": 2168
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Это хорошие новости. Это значит, что вы здоровы.",
+        "en": "That is good news. It means you are healthy.",
+        "qEn": "The doctor said that everything with me is fine. Is that good or bad?",
+        "timings": {
+          "inMs": 502,
+          "brainMs": 1312,
+          "ttftMs": 428,
+          "outMs": 612,
+          "outWorkMs": 611,
+          "firstRuMs": 2425,
+          "totalMs": 2425
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_7a503ff035a6",
+      "at": "2026-10-26T13:39:58.108Z",
+      "questionId": "m_45b377324779",
+      "question": "Сколько будет двадцать три умножить на семнадцать?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Двести восемьдесят один. Это результат умножения двадцати трех на семнадцать.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 1980,
+          "ttftMs": 373,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 373,
+          "totalMs": 1980
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Ответ — триста девяносто один.\nОтвет: триста девяносто один.",
+        "en": "The answer is three hundred ninety one.\nОтвет триста девяносто один.",
+        "qEn": "What is twenty-three multiplied by seventeen?",
+        "timings": {
+          "inMs": 260,
+          "brainMs": 2089,
+          "ttftMs": 348,
+          "outMs": 446,
+          "outWorkMs": 1215,
+          "firstRuMs": 1996,
+          "totalMs": 2796
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_e72c8e7882b6",
+      "at": "2026-10-26T13:40:02.908Z",
+      "questionId": "m_6e0c0e5fb278",
+      "question": "Напиши короткое поздравление с днём рождения для бабушки Нины.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "С днём рождения, бабушка Нина. Желаю тебе крепкого здоровья, счастья и тепла.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2277,
+          "ttftMs": 380,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 380,
+          "totalMs": 2277
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "С днем рождения, бабушка Нина! Надеюсь, у вас будет прекрасный день.",
+        "en": "Happy birthday to Grandma Nina I hope you have a wonderful day",
+        "qEn": "Write a short birthday congratulation for Grandma Nina.",
+        "timings": {
+          "inMs": 378,
+          "brainMs": 1325,
+          "ttftMs": 349,
+          "outMs": 989,
+          "outWorkMs": 989,
+          "firstRuMs": 2692,
+          "totalMs": 2692
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_35fb87427944",
+      "at": "2026-10-26T13:40:07.891Z",
+      "questionId": "m_10dc22877540",
+      "question": "Я такая уставшая сегодня, всё из рук валится. Что посоветуешь?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Попробуй сделать короткий перерыв и немного отдохнуть. Выпей воды и сделай пару глубоких вдохов.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2571,
+          "ttftMs": 410,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 410,
+          "totalMs": 2571
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Вам следует немного отдохнуть или прогуляться. Короткие перерывы могут помочь расслабить мозг.",
+        "en": "You should take a short rest or go for a brief walk. Small breaks can help clear your mind.",
+        "qEn": "I’m so tired today; everything is falling apart. What do you suggest?",
+        "timings": {
+          "inMs": 514,
+          "brainMs": 2620,
+          "ttftMs": 405,
+          "outMs": 760,
+          "outWorkMs": 1826,
+          "firstRuMs": 3114,
+          "totalMs": 3894
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_53affd724e09",
+      "at": "2026-10-26T13:40:14.379Z",
+      "questionId": "m_7044b831fe20",
+      "question": "Почему у меня не заводится машина на морозе, хотя аккумулятор новый?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Возможно, проблема в топливной системе или стартере, а не только в аккумуляторе. Попробуйте прогреть двигатель или проверить свечи зажигания.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 3121,
+          "ttftMs": 426,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 426,
+          "totalMs": 3121
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Проверьте топливо и фитинги. Холодная погода может влиять на эти системы даже при использовании новой батареи.",
+        "en": "Check your fuel and glow plugs. Cold weather can affect these systems even with a new battery.",
+        "qEn": "Why can’t I start my car on a cold day, even though the battery is new?",
+        "timings": {
+          "inMs": 687,
+          "brainMs": 2474,
+          "ttftMs": 484,
+          "outMs": 758,
+          "outWorkMs": 1717,
+          "firstRuMs": 2724,
+          "totalMs": 3919
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_b66b7847b7f6",
+      "at": "2026-10-26T13:40:21.436Z",
+      "questionId": "m_3fb4fdc840a8",
+      "question": "Расскажи короткий анекдот про программистов.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Программист заходит в бар и говорит бармену мне нужен стакан воды. Бармен приносит. Программист говорит спасибо но забыл добавить \"с газом\".",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 3322,
+          "ttftMs": 390,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 390,
+          "totalMs": 3322
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Почему программисты предпочитают темный режим: так легче видеть код.",
+        "en": "Why do programmers prefer dark mode because it is easier to see the code",
+        "qEn": "Tell a short joke about programmers.",
+        "timings": {
+          "inMs": 250,
+          "brainMs": 1465,
+          "ttftMs": 347,
+          "outMs": 832,
+          "outWorkMs": 832,
+          "firstRuMs": 2547,
+          "totalMs": 2547
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_f41cfb441fbd",
+      "at": "2026-10-26T13:40:27.318Z",
+      "questionId": "m_b93fdc43143b",
+      "question": "Что лучше взять в поход: палатку на двоих или на троих? Нас будет двое, рюкзаки большие.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Бери палатку на двоих, это удобнее и компактнее. Большие рюкзаки не требуют больше места внутри.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2811,
+          "ttftMs": 527,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 527,
+          "totalMs": 2811
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Конюшка для двух человек лучше для вас. Большие рюкзаки означают, что вам не нужно дополнительное пространство.",
+        "en": "The two person tent is better for you. Large backpacks mean you do not need extra space.",
+        "qEn": "Which is better to bring for a hike: a tent for two or three people? There will be two of us, and the backpacks are large.",
+        "timings": {
+          "inMs": 1240,
+          "brainMs": 3399,
+          "ttftMs": 736,
+          "outMs": 1074,
+          "outWorkMs": 2491,
+          "firstRuMs": 4434,
+          "totalMs": 5713
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_4feb2edf9e6c",
+      "at": "2026-10-26T13:40:35.860Z",
+      "questionId": "m_c874dbfad047",
+      "question": "К стоматологу мне пятнадцатого, а в отпуск я ухожу двадцатого. Сколько дней между ними?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Между пятнадцатым и двадцатым есть пять дней. У тебя есть время до отпуска.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 2489,
+          "ttftMs": 487,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 487,
+          "totalMs": 2489
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Между пятнадцатым и двадцатым числами есть пять дней.\nМежду пятнадцатым и двадцатым числом остается пять дней.",
+        "en": "There are five days between the fifteenth and the twentieth.\nМежду пятнадцатым и двадцатым есть пять дней.",
+        "qEn": "I need to see a dentist on the fifteenth, and I go on leave on the twentieth. How many days are between them?",
+        "timings": {
+          "inMs": 930,
+          "brainMs": 3330,
+          "ttftMs": 535,
+          "outMs": 871,
+          "outWorkMs": 2274,
+          "firstRuMs": 4009,
+          "totalMs": 5131
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_aeb0b36cadb6",
+      "at": "2026-10-26T13:40:43.497Z",
+      "questionId": "m_b8e0fcf4de8c",
+      "question": "Как меня зовут, если я только что сказал: меня зовут Илья?",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Вас зовут Илья. Я запомнил это имя.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 1579,
+          "ttftMs": 384,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 384,
+          "totalMs": 1579
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Ваше имя — Илия. Я могу помочь вам с другими вопросами.\nТвоё имя — Илья. Я могу помочь тебе с другими вопросами.",
+        "en": "Your name is Ilia. I can help you with other questions.\nТвое имя Илья. Я могу помочь тебе с другими вопросами.",
+        "qEn": "What’s my name? If I just said: My name is Ilia?",
+        "timings": {
+          "inMs": 519,
+          "brainMs": 3517,
+          "ttftMs": 400,
+          "outMs": 846,
+          "outWorkMs": 2388,
+          "firstRuMs": 3602,
+          "totalMs": 4881
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    },
+    {
+      "id": "c_cb46ec471666",
+      "at": "2026-10-26T13:40:49.983Z",
+      "questionId": "m_217741eca472",
+      "question": "Представь, что ты строгий, но добрый тренер по бегу. Дай мне совет перед первым забегом на пять километров.",
+      "memoryN": 0,
+      "streamOut": true,
+      "notes": false,
+      "roles": {
+        "brain": {
+          "baseUrl": "http://127.0.0.1:8180/v1",
+          "model": "brain"
+        },
+        "translator": {
+          "baseUrl": "http://127.0.0.1:8181/v1",
+          "model": "translator",
+          "profile": "hymt"
+        }
+      },
+      "direct": {
+        "ru": "Не гонись, слушай своё тело и пей воду. Главное — финишировать, а не ставить рекорды. Удачи тебе на дистанции.",
+        "en": null,
+        "qEn": null,
+        "timings": {
+          "inMs": 0,
+          "brainMs": 3200,
+          "ttftMs": 477,
+          "outMs": 0,
+          "outWorkMs": 0,
+          "firstRuMs": 477,
+          "totalMs": 3200
+        },
+        "error": null
+      },
+      "translate": {
+        "ru": "Не спешите с самого начала, не бегите слишком рано. Сосредоточьтесь на успешном и безопасном завершении гонки. Удачи в вашей гонке!",
+        "en": "Pace yourself from the start do not sprint too early Focus on finishing strong and safely Good luck with your race",
+        "qEn": "Imagine you’re a strict but kind running coach. Give me some advice before my first five-kilometer race.",
+        "timings": {
+          "inMs": 673,
+          "brainMs": 2131,
+          "ttftMs": 461,
+          "outMs": 1722,
+          "outWorkMs": 1722,
+          "firstRuMs": 4526,
+          "totalMs": 4526
+        },
+        "error": null
+      },
+      "verdict": null,
+      "kept": null
+    }
+  ]
+}

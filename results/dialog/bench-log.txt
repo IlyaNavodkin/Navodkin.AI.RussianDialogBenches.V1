@@ -1,0 +1,119 @@
+18:50:14  lfm2.5-2.6b-unc-translate: загружаю мозг…
+18:50:18  lfm2.5-2.6b-unc-translate: мозг готов за 2.5 с, пишу диалог
+18:51:12  lfm2.5-2.6b-unc-translate: Тест 1 — живой русский разговор: ok
+18:52:08  lfm2.5-2.6b-unc-translate: Тест 2 — понимание контекста: ok
+18:52:36  lfm2.5-2.6b-unc-translate: Тест 3 — разговорная естественность: ok
+18:53:29  lfm2.5-2.6b-unc-translate: Тест 4 — понимание дружеских подколов: ok
+18:54:24  lfm2.5-2.6b-unc-translate: Тест 5 — эмоциональное противоречие: ok
+18:55:29  lfm2.5-2.6b-unc-translate: Тест 6 — скрытый смысл и сарказм: ok
+18:55:58  lfm2.5-2.6b-unc-translate: Просьба о пересказе: ok
+18:55:59  lfm2.5-2.6b-unc-translate: сохранено в reports/data/lfm2.5-2.6b-unc-translate.json
+18:55:59  lfm2.5-2.6b-unc-direct: загружаю мозг…
+18:56:01  lfm2.5-2.6b-unc-direct: мозг готов за 1.5 с, пишу диалог
+18:56:24  lfm2.5-2.6b-unc-direct: Тест 1 — живой русский разговор: ok
+18:56:58  lfm2.5-2.6b-unc-direct: Тест 2 — понимание контекста: ok
+18:57:30  lfm2.5-2.6b-unc-direct: Тест 3 — разговорная естественность: ok
+18:58:10  lfm2.5-2.6b-unc-direct: Тест 4 — понимание дружеских подколов: ok
+18:58:56  lfm2.5-2.6b-unc-direct: Тест 5 — эмоциональное противоречие: ok
+18:59:28  lfm2.5-2.6b-unc-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:00:04  lfm2.5-2.6b-unc-direct: Просьба о пересказе: ok
+19:00:05  lfm2.5-2.6b-unc-direct: сохранено в reports/data/lfm2.5-2.6b-unc-direct.json
+19:00:05  lfm2.5-2.6b-unc: отчёт reports/lfm2.5-2.6b-unc.md
+19:00:05  lfm2.5-8b-unc-translate: загружаю мозг…
+19:00:10  lfm2.5-8b-unc-translate: мозг готов за 3.6 с, пишу диалог
+19:00:29  lfm2.5-8b-unc-translate: Тест 1 — живой русский разговор: ok
+19:00:44  lfm2.5-8b-unc-translate: Тест 2 — понимание контекста: ok
+19:00:59  lfm2.5-8b-unc-translate: Тест 3 — разговорная естественность: ok
+19:01:19  lfm2.5-8b-unc-translate: Тест 4 — понимание дружеских подколов: ok
+19:01:37  lfm2.5-8b-unc-translate: Тест 5 — эмоциональное противоречие: ok
+19:01:57  lfm2.5-8b-unc-translate: Тест 6 — скрытый смысл и сарказм: ok
+19:02:17  lfm2.5-8b-unc-translate: Просьба о пересказе: ok
+19:02:17  lfm2.5-8b-unc-translate: сохранено в reports/data/lfm2.5-8b-unc-translate.json
+19:02:17  lfm2.5-8b-unc-direct: загружаю мозг…
+19:02:19  lfm2.5-8b-unc-direct: мозг готов за 1.0 с, пишу диалог
+19:02:28  lfm2.5-8b-unc-direct: Тест 1 — живой русский разговор: ok
+19:02:41  lfm2.5-8b-unc-direct: Тест 2 — понимание контекста: ok
+19:02:51  lfm2.5-8b-unc-direct: Тест 3 — разговорная естественность: ok
+19:03:02  lfm2.5-8b-unc-direct: Тест 4 — понимание дружеских подколов: ok
+19:03:07  lfm2.5-8b-unc-direct: Тест 5 — эмоциональное противоречие: ok
+19:03:16  lfm2.5-8b-unc-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:03:29  lfm2.5-8b-unc-direct: Просьба о пересказе: ok
+19:03:29  lfm2.5-8b-unc-direct: сохранено в reports/data/lfm2.5-8b-unc-direct.json
+19:03:29  lfm2.5-8b-unc: отчёт reports/lfm2.5-8b-unc.md
+19:03:29  bolt-e4b-translate: загружаю мозг…
+19:03:36  bolt-e4b-translate: мозг готов за 4.6 с, пишу диалог
+19:03:50  bolt-e4b-translate: Тест 1 — живой русский разговор: ok
+19:03:58  bolt-e4b-translate: Тест 2 — понимание контекста: ok
+19:04:03  bolt-e4b-translate: Тест 3 — разговорная естественность: ok
+19:04:14  bolt-e4b-translate: Тест 4 — понимание дружеских подколов: ok
+19:04:23  bolt-e4b-translate: Тест 5 — эмоциональное противоречие: ok
+19:04:38  bolt-e4b-translate: Тест 6 — скрытый смысл и сарказм: ok
+19:04:55  bolt-e4b-translate: Просьба о пересказе: ok
+19:04:56  bolt-e4b-translate: сохранено в reports/data/bolt-e4b-translate.json
+19:04:56  bolt-e4b-direct: загружаю мозг…
+19:04:59  bolt-e4b-direct: мозг готов за 3.1 с, пишу диалог
+19:05:13  bolt-e4b-direct: Тест 1 — живой русский разговор: ok
+19:05:23  bolt-e4b-direct: Тест 2 — понимание контекста: ok
+19:05:29  bolt-e4b-direct: Тест 3 — разговорная естественность: ok
+19:05:38  bolt-e4b-direct: Тест 4 — понимание дружеских подколов: ok
+19:05:48  bolt-e4b-direct: Тест 5 — эмоциональное противоречие: ok
+19:06:02  bolt-e4b-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:06:17  bolt-e4b-direct: Просьба о пересказе: ok
+19:06:17  bolt-e4b-direct: сохранено в reports/data/bolt-e4b-direct.json
+19:06:17  bolt-e4b: отчёт reports/bolt-e4b.md
+19:06:17  gigachat-direct: загружаю мозг…
+19:06:24  gigachat-direct: мозг готов за 6.6 с, пишу диалог
+19:06:40  gigachat-direct: Тест 1 — живой русский разговор: ok
+19:06:44  gigachat-direct: Тест 2 — понимание контекста: ok
+19:06:50  gigachat-direct: Тест 3 — разговорная естественность: ok
+19:06:56  gigachat-direct: Тест 4 — понимание дружеских подколов: ok
+19:07:02  gigachat-direct: Тест 5 — эмоциональное противоречие: ok
+19:07:08  gigachat-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:07:13  gigachat-direct: Просьба о пересказе: ok
+19:07:14  gigachat-direct: сохранено в reports/data/gigachat-direct.json
+19:07:14  gigachat: отчёт reports/gigachat.md
+19:07:14  luqwen5-direct: загружаю мозг…
+19:07:17  luqwen5-direct: мозг готов за 3.6 с, пишу диалог
+19:07:51  luqwen5-direct: Тест 1 — живой русский разговор: ok
+19:08:38  luqwen5-direct: Тест 2 — понимание контекста: ok
+19:08:59  luqwen5-direct: Тест 3 — разговорная естественность: ok
+19:09:28  luqwen5-direct: Тест 4 — понимание дружеских подколов: ok
+19:09:57  luqwen5-direct: Тест 5 — эмоциональное противоречие: ok
+19:10:47  luqwen5-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:11:22  luqwen5-direct: Просьба о пересказе: ok
+19:11:22  luqwen5-direct: сохранено в reports/data/luqwen5-direct.json
+19:11:22  luqwen5: отчёт reports/luqwen5.md
+19:11:22  rusmind-direct: загружаю мозг…
+19:11:26  rusmind-direct: мозг готов за 3.6 с, пишу диалог
+19:11:32  rusmind-direct: Тест 1 — живой русский разговор: ok
+19:11:36  rusmind-direct: Тест 2 — понимание контекста: ok
+19:11:40  rusmind-direct: Тест 3 — разговорная естественность: ok
+19:11:45  rusmind-direct: Тест 4 — понимание дружеских подколов: ok
+19:11:53  rusmind-direct: Тест 5 — эмоциональное противоречие: ok
+19:12:03  rusmind-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:12:11  rusmind-direct: Просьба о пересказе: ok
+19:12:11  rusmind-direct: сохранено в reports/data/rusmind-direct.json
+19:12:11  rusmind: отчёт reports/rusmind.md
+19:12:11  gigachat-lightning-unc-q6-direct: загружаю мозг…
+19:12:16  gigachat-lightning-unc-q6-direct: мозг готов за 4.1 с, пишу диалог
+19:12:29  gigachat-lightning-unc-q6-direct: Тест 1 — живой русский разговор: ok
+19:12:34  gigachat-lightning-unc-q6-direct: Тест 2 — понимание контекста: ok
+19:12:38  gigachat-lightning-unc-q6-direct: Тест 3 — разговорная естественность: ok
+19:12:45  gigachat-lightning-unc-q6-direct: Тест 4 — понимание дружеских подколов: ok
+19:12:51  gigachat-lightning-unc-q6-direct: Тест 5 — эмоциональное противоречие: ok
+19:12:57  gigachat-lightning-unc-q6-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:13:02  gigachat-lightning-unc-q6-direct: Просьба о пересказе: ok
+19:13:03  gigachat-lightning-unc-q6-direct: сохранено в reports/data/gigachat-lightning-unc-q6-direct.json
+19:13:03  gigachat-lightning-unc-q6: отчёт reports/gigachat-lightning-unc-q6.md
+19:13:03  gigachat-lightning-unc-q4-direct: загружаю мозг…
+19:13:10  gigachat-lightning-unc-q4-direct: мозг готов за 6.6 с, пишу диалог
+19:13:24  gigachat-lightning-unc-q4-direct: Тест 1 — живой русский разговор: ok
+19:13:29  gigachat-lightning-unc-q4-direct: Тест 2 — понимание контекста: ok
+19:13:33  gigachat-lightning-unc-q4-direct: Тест 3 — разговорная естественность: ok
+19:13:38  gigachat-lightning-unc-q4-direct: Тест 4 — понимание дружеских подколов: ok
+19:13:44  gigachat-lightning-unc-q4-direct: Тест 5 — эмоциональное противоречие: ok
+19:13:49  gigachat-lightning-unc-q4-direct: Тест 6 — скрытый смысл и сарказм: ok
+19:13:53  gigachat-lightning-unc-q4-direct: Просьба о пересказе: ok
+19:13:54  gigachat-lightning-unc-q4-direct: сохранено в reports/data/gigachat-lightning-unc-q4-direct.json
+19:13:54  gigachat-lightning-unc-q4: отчёт reports/gigachat-lightning-unc-q4.md
+19:13:54  готово
