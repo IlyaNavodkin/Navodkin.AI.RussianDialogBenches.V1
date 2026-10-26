@@ -1,0 +1,318 @@
+{
+  "id": "qwen3.5-4b",
+  "key": "qwen3.5-4b-translate",
+  "title": "Qwen3.5-4B Q4_K_M — мозг (Apache-2.0, Unsloth-сборка)",
+  "file": "Qwen3.5-4B-Q4_K_M.gguf",
+  "bytes": 2740937888,
+  "mode": "translate",
+  "withTranslator": true,
+  "memoryN": 8,
+  "loadSec": 3.067,
+  "translatorLoadSec": 1.531,
+  "ram": {
+    "brainLoaded": {
+      "peakMB": 4195,
+      "nowMB": 4195
+    },
+    "brain": {
+      "peakMB": 5369,
+      "nowMB": 5369
+    },
+    "translator": {
+      "peakMB": 2412,
+      "nowMB": 2412
+    }
+  },
+  "error": null,
+  "messages": [
+    {
+      "id": "m_4467a04db835",
+      "role": "user",
+      "ru": "Слушай, у меня сегодня какой-то дурдом. С утра всё наперекосяк: проспал, кофе на себя пролил, на работе начальник мозги вынес из-за какой-то ерунды. А вечером ещё друг зовёт встретиться, и вроде хочется развеяться, но я уже вообще никакой.\n\nСамое смешное, что я ему вчера сам написал, мол, давай увидимся. А теперь сижу и думаю, как бы красиво слиться, чтобы он не обиделся. Хотя он меня и так подкалывает, что я вечно куда-то пропадаю.\n\nКороче, я уже сам себя достал. Ты как думаешь, забить на всё и остаться дома или всё-таки выбраться? Только давай без заумных советов и психологических лекций. Просто поговори со мной нормально, как человек, который реально понимает, о чём речь.",
+      "en": "Hey, I’ve been acting like a complete idiot today. In the morning, everything went wrong: I slept in, spilled coffee on myself, and at work, my boss took out my brain over some nonsense. In the evening, another person wants to meet up with me—it seems like I really want to socialize, but I just feel completely exhausted.\n\nThe most funny thing is that I actually wrote to him yesterday, saying “Let’s meet up.” Now I’m sitting here thinking about how to do it nicely so he doesn’t get upset. Even though he always teases me by making me disappear somewhere all the time.\n\nIn short, I’ve already messed up myself. What do you think? Should I give up everything and stay at home, or should I go out? Just don’t give me any complicated advice or psychological lectures. Just talk to me normally, like a person who really understands what’s going on.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:45:11.905Z"
+    },
+    {
+      "id": "m_ae0e26541844",
+      "role": "assistant",
+      "ru": "Короче говоря, никто не глупец, если у него плохой день. Похоже, та каша и твой начальник — это просто очень длинная, стрессовая цепочка реакций. Вероятно, твой мозг просто перегорел от всего этого.\nО встрече: я думаю, тебе стоит пойти. Он знает, что ты там только чтобы исчезнуть, так что, скорее всего, он ожидает, что ты устала или чувствуешься странно. Если ты не придешь, он может подумать, что ты его обманул или что ты злишься, а это совсем не то, чего ты хочешь. Просто напиши ему что-нибудь вроде: «Эй, после работы я совсем вымотался, но если ты все еще хочешь встретиться, может, мы можем выпить кофе позже?» Если нет, то никаких проблем. Никакой давления.\nСегодня не стоит пытаться все исправить. Делай только самое необходимое, чтобы пройти день, и будь добрым к себе. Ты уже все испортил, так что сегодня не можешь делать ошибок.",
+      "en": "First off, nobody is an idiot for having a terrible day. It sounds like that coffee spill and your boss were just a really long, stressful chain reaction. Your brain is probably just fried from all that.\n\nAbout the meetup, I think you should go. He knows you're there to disappear, so he's probably expecting you to be tired or weird. If you don't show up, he might think you ghosted him or that you're mad, which is the opposite of what you want. Just text him something like, \"Hey, I'm totally wiped out after work, but if you still want to meet, maybe we can grab coffee later? If not, no hard feelings.\" No pressure at all.\n\nDon't try to fix everything today. Just do the bare minimum to get through the day and be kind to yourself. You've messed up already, so you can't make more mistakes today.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 6507,
+        "brainMs": 21714,
+        "ttftMs": 1785,
+        "outMs": 1191,
+        "outWorkMs": 18953,
+        "firstRuMs": 10788,
+        "totalMs": 29412,
+        "genTokens": 187,
+        "tokPerSec": 9.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:45:41.319Z"
+    },
+    {
+      "id": "m_73b959211586",
+      "role": "user",
+      "ru": "Ну вот ты говоришь так, будто всё просто. А я ж не из-за лени дома хочу остаться, понимаешь? Просто батарейка села. И друг-то нормальный, не хочется его обламывать. Хотя, если честно, я уже сам не знаю, чего хочу. Ты бы на моём месте что сделал? Только не повторяй то же самое другими словами.",
+      "en": "Well, you say it like it’s simple. But I don’t want to stay at home just because I’m lazy, you know? It’s just that the battery is dead. And the friend is fine; I don’t want to hurt him. But honestly, I don’t even know what I really want anymore. What would you do if you were in my place? Just don’t repeat the same thing in different words.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:45:41.322Z"
+    },
+    {
+      "id": "m_adf5d137205c",
+      "role": "assistant",
+      "ru": "Если бы я был на твоем месте, я бы просто ушёл. Ты не хочешь быть той, которая пропала без следа, потому что сдалась, а он уже шутит над тем, что ты исчезла, так что, скорее всего, он просто засмеется или пошутит, что ты устала.\nПоскольку батарея села, не стоит планировать ничего сложного. Просто встретимся с ним на короткое время, может быть выпьем кофе или прогуляемся около двадцати минут. Не нужно развлекать его или вести долгие разговоры — просто будь там, чтобы появиться.\nКогда вернешься домой, можешь поспать, выпить чай и дать мозгу отдохнуть. Главное — быть другом для себя, а не наказывать себя за усталость.",
+      "en": "If I were you, I'd just go out. You don't want to be the one who ghosted him because you gave up, and he's already teasing you about disappearing, so he'll likely just laugh or make a joke about you being tired.\n\nSince your battery is dead, don't plan anything fancy. Just meet him for a short time, maybe grab a quick coffee or walk around for twenty minutes. You don't have to entertain him or have a deep conversation; just be there to show up.\n\nOnce you're back home, you can sleep, drink tea, and let your brain rest. The important thing is to be a friend to yourself, not to punish yourself for being tired.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3048,
+        "brainMs": 17145,
+        "ttftMs": 2289,
+        "outMs": 1142,
+        "outWorkMs": 13195,
+        "firstRuMs": 7430,
+        "totalMs": 21336,
+        "genTokens": 145,
+        "tokPerSec": 9.7
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:02.659Z"
+    },
+    {
+      "id": "m_d04629330b90",
+      "role": "user",
+      "ru": "Ладно, уговорил. Хотя не факт, что я вообще с дивана сегодня встану 😄 Слушай, а что ему написать-то? Только без официоза, а то ты иногда так формулируешь, будто я заявление в администрацию подаю. Надо коротко, по-дружески, можно с лёгким подколом.",
+      "en": "Okay, I convinced him. But it’s not certain that I’ll actually get up from the sofa today 😄 Hey, what should I write to him? Just without any formal language—you sometimes phrase things like I’m submitting a application to the administration. It needs to be short and friendly, maybe with a little humor.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:02.661Z"
+    },
+    {
+      "id": "m_47b469113de1",
+      "role": "assistant",
+      "ru": "Эй, я до сих пор не полностью оправился от всех этих проблем с боссом, так что сегодня мой мозг практически отключен. Если хочешь вместе поболтать, возможно, я появлюсь, но скорее всего исчезну и буду бегать по кругам или просто смотреть на стену. Если я не приду к ужину, не воспринимай это как критику — я просто выживаю на последних силах. Сообщи мне, если ты все еще готова.",
+      "en": "Hey, I still haven't fully recovered from that boss drama so my brain is basically offline today. If you want to hang out, I might show up, but I'm probably going to disappear and run around in circles or just stare at a wall. If I don't show up by dinner time, don't take it personally, I'm just running on fumes. Let me know if you're still up for it.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 2238,
+        "brainMs": 10368,
+        "ttftMs": 1774,
+        "outMs": 986,
+        "outWorkMs": 7624,
+        "firstRuMs": 7889,
+        "totalMs": 13592,
+        "genTokens": 87,
+        "tokPerSec": 10
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:16.253Z"
+    },
+    {
+      "id": "m_690120f1496d",
+      "role": "user",
+      "ru": "Короче, написал я ему, что всё-таки выберусь, но ненадолго. А он мне в ответ: «О, какие люди! Ты там случайно не заблудишься по дороге? А то мы тебя уже в Красную книгу занесли 😂».\n\nИ вот вроде понимаю, что рофлит, но я сегодня какой-то слишком восприимчивый. Как думаешь, он реально подкалывает по-доброму или уже задолбался от моих вечных отмен? И что ему ответить, чтобы тоже с юмором, но без перегиба?",
+      "en": "In short, I told him that I would definitely leave, but not for long. And he replied, “Oh, what kind of people! Are you maybe going to get lost along the way? We’ve already put you on the Red List 😂.”\n\nI think I understand that he’s just joking, but today I’m a bit too receptive. Do you think he’s really teasing me in a friendly way, or is he getting tired of my constant delays? And what should I reply, in a humorous way, but without going too far?",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:16.255Z"
+    },
+    {
+      "id": "m_0d9a276e3e7d",
+      "role": "assistant",
+      "ru": "Вряд ли он просто шутит в дружеском духе. Такие люди шутят о том, что исчезают, потому что это стало постоянной шуткой между вами двумя. Если он действительно устал от твоих задержек, он, наверное, просто перестанет писать сообщения или встретится где-то ещё, а не будет шутить о «Красной списке» посреди разговора. Он пытается сохранять спокойную атмосферу.\nОтветь так, чтобы было весело, но при этом понимать шутку, не извиняясь слишком много. Ну да, я понимаю. Мой GPS сейчас в замешательстве и думает, что я иду назад. Но если я не появлюсь через десять минут, я буду так далеко, что мне понадобится карта. Увидимся скоро, странник. Это показывает, что ты все еще занят, так что не стоит принимать это слишком серьезно.",
+      "en": "He's probably just teasing in a friendly way. People like that joke about disappearing because it's become a running gag between you two. If he was actually getting tired of your delays, he'd probably just stop texting or meet elsewhere, not make a joke about a \"Red List\" in the middle of a conversation. He's trying to keep the mood light.\n\nFor your reply, keep it playful but acknowledge the joke without over-apologizing. Something like: \"I know, I know. My GPS is currently confused and thinks I'm walking backwards. But if I don't show up in ten minutes, I'll be so far away I'll need a map. See you soon, you weirdo.\" It shows you're still engaged and don't take it too seriously.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3726,
+        "brainMs": 18790,
+        "ttftMs": 1739,
+        "outMs": 1077,
+        "outWorkMs": 15633,
+        "firstRuMs": 7281,
+        "totalMs": 23594,
+        "genTokens": 159,
+        "tokPerSec": 9.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:39.851Z"
+    },
+    {
+      "id": "m_9ac415a15c6a",
+      "role": "user",
+      "ru": "Слушай, вот что меня бесит. Я вроде сам решил выбраться, никто меня за язык не тянул. А теперь сижу, собираюсь и злюсь, будто меня кто-то насильно тащит. Сам себе проблемы придумываю, короче.\n\nИ ведь понимаю головой, что посижу часик, поболтаем, нормально всё будет. Но внутри такое чувство, будто мне ещё одну смену на работе отрабатывать. Это вообще как объяснить? Только не начинай про внутреннего ребёнка и прочую психологическую муть 😄",
+      "en": "Hey, that’s what really irritates me. I actually decided to leave on my own, no one forced me to do it. Now I sit here, plan things, and get angry, as if someone is forcing me to stay. I’m just creating problems for myself, in short.\n\nI know, of course, that I could sit for an hour, talk about stuff, and everything would be fine. But inside me, it feels like I still have to go through another shift at work. How can I explain that? Just don’t start talking about some inner child or other psychological issues 😄",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:46:39.853Z"
+    },
+    {
+      "id": "m_24d08fcff2be",
+      "role": "assistant",
+      "ru": "Кажется, твой мозг застрял в «режиме работы», где каждый маленький задание — это большой проект, который нужно идеально управлять. Ты считаешь отдых своим делом, которое нужно выполнить без ошибок, поэтому ты так злишься и чувствуешь давление, хотя просто пытаешься расслабиться.\nПросто скажи себе, что тебе не нужно ничего объяснять никому, даже самому себе. Сегодня тебе можно быть беспорядочным, уставшим и непостоянным. Если ты сидишь час и потом уходишь, это не провал. Вот как ты сейчас себя чувствуешь. Не старайся исправлять ощущение «Я должен сделать больше», просто делай то, что тебе нравится в течение часа, а потом прекрати.",
+      "en": "It feels like your brain is stuck in \"work mode\" where every small task is a big project you have to manage perfectly. You're treating your own rest like a job you have to complete without mistakes, which is why you feel so angry and pressured even though you're just trying to relax.\n\nJust tell yourself that you don't need to explain anything to anyone, including yourself. You're allowed to be messy, tired, and inconsistent today. If you sit for an hour and then leave, that is not a failure. That is just how you feel right now. Don't try to fix the feeling of \"I should do more,\" just do what feels okay for one hour and then stop.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 4064,
+        "brainMs": 17633,
+        "ttftMs": 2370,
+        "outMs": 1417,
+        "outWorkMs": 13466,
+        "firstRuMs": 11353,
+        "totalMs": 23114,
+        "genTokens": 143,
+        "tokPerSec": 9.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:47:02.970Z"
+    },
+    {
+      "id": "m_fa9be1e4bdd3",
+      "role": "user",
+      "ru": "Прикинь, я всё-таки вышел. И знаешь что? Только от дома отошёл — уже как-то легче стало. А я тут полвечера драму разводил, будто меня не с другом встретиться зовут, а на каторгу отправляют.\n\nПравда, друг написал: «Только давай сегодня без твоих историй про начальника, а то я сам на больничный уйду 😂».\n\nНу замечательно, теперь мне ещё и рот на замок повесить? Или я опять на ровном месте завёлся? Скажи как есть, можешь даже чуть подколоть.",
+      "en": "Guess I actually got out of the house. And you know what? As soon as I left home, it felt a little easier. But I spent half the evening dealing with that drama—like they don’t want me to meet up with a friend, but instead send me to penal labor.\n\nActually, my friend wrote: “Just let’s not talk about your stories about the boss today, otherwise I’ll have to go to the hospital 😂”.\n\nWell, that’s great—now I even have to keep my mouth shut? Or am I stuck in a dead end again? Tell me what’s going on, you can even tease me a little.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:47:02.972Z"
+    },
+    {
+      "id": "m_cf0e10ecfc7d",
+      "role": "assistant",
+      "ru": "Похоже, ты наконец разорвал цепочку планирования и начал действовать, это очень здорово. Эта комментарий про «пенальный труд» — просто он снова шутит, чтобы разрядить атмосферу перед твоим драмом.\nТы не застрял на бездорожье. Вероятно, он говорит так: раз ты так много рассказываешь о стрессе на работе, ему кажется, что ему тоже нужно за тебя взять на себя заботу. Если ты продолжает говорить о боссе, он шутит, что ты будешь слишком много думать и потеряешь рассудок.\nМожешь просто ответить что-нибудь вроде: «Обещаю больше не говорить о боссе». Но если я так сделаю, тебе придётся отвезти меня в больницу с лёгкими компрессами. Договорились?\nЭто продолжает шутки без давления. С тобой всё отлично.",
+      "en": "It sounds like you finally broke the cycle of planning and started doing, which is huge. The \"penal labor\" comment is just him being funny again to lighten the mood about your drama.\n\nYou aren't stuck in a dead end. He's probably saying that since you're sharing so much about work stress, he feels like he has to take care of you too. If you keep talking about the boss, he's joking that you'll overthink it into a full-blown mental breakdown.\n\nJust reply with something like: \"I promise not to mention the boss again. But if I do, you're the one who has to send me to the hospital with ice packs. Deal?\"\n\nIt keeps the banter going without pressure. You're doing just fine.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 4400,
+        "brainMs": 25345,
+        "ttftMs": 8192,
+        "outMs": 678,
+        "outWorkMs": 15237,
+        "firstRuMs": 15612,
+        "totalMs": 30423,
+        "genTokens": 158,
+        "tokPerSec": 9.2
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:47:33.396Z"
+    },
+    {
+      "id": "m_f3a4562dc6fc",
+      "role": "user",
+      "ru": "Сделай краткий пересказ нашего разговора: что я рассказал, что решил и чем всё закончилось. 4–6 предложений.",
+      "en": "Give a brief summary of our conversation: what I said, what I decided, and how it ended. 4–6 sentences.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:47:33.398Z"
+    },
+    {
+      "id": "m_92ab21bb7fac",
+      "role": "assistant",
+      "ru": "Я убедил босса позволить мне уйти вечером, но сначала я сидел на диване и беспокоился об этом. После того как я почувствовала, что не могу справиться с внутренним давлением, я наконец вышла на улицу и пошла встретиться с другом. Мой друг пошутил, что мои истории о боссе такие драматичные, что можно и в больницу попасть, и мне это показалось забавным. Мы держали разговор легким, шутя о моей ситуации с «пенальным трудом», и не затрагивали серьезные темы на этой ночи. В конце концов, я выбралась из своей мысленной петли, просто выйдя на улицу — это доказывает, что маленькие действия важнее идеального планирования.",
+      "en": "I convinced my boss to let me leave for the evening, but I was initially stuck on the couch worrying about it. After feeling overwhelmed by internal pressure, I finally stepped outside and went to meet my friend instead. My friend joked that my boss stories were so dramatic they could lead to a hospital visit, which I found amusing. We kept the conversation light with humor about my \"penal labor\" situation and avoided deep work drama for the night. Ultimately, I escaped my mental loop by actually going out, proving that small actions matter more than perfect planning.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 900,
+        "brainMs": 19636,
+        "ttftMs": 7558,
+        "outMs": 1845,
+        "outWorkMs": 11909,
+        "firstRuMs": 12316,
+        "totalMs": 22381,
+        "genTokens": 113,
+        "tokPerSec": 9.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:47:55.781Z"
+    }
+  ],
+  "startedAt": "2026-10-26T15:45:06.999Z",
+  "finishedAt": "2026-10-26T15:47:56.221Z"
+}

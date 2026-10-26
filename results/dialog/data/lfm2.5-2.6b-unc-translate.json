@@ -1,0 +1,318 @@
+{
+  "id": "lfm2.5-2.6b-unc",
+  "key": "lfm2.5-2.6b-unc-translate",
+  "title": "LFM2.5-2.6B Uncensored Q8_0 — мозг (сторонний дообученный)",
+  "file": "LFM2.5-2.6B-Uncensored-Q8_0.gguf",
+  "bytes": 2874779296,
+  "mode": "translate",
+  "withTranslator": true,
+  "memoryN": 8,
+  "loadSec": 2.546,
+  "translatorLoadSec": 1.522,
+  "ram": {
+    "brainLoaded": {
+      "peakMB": 2881,
+      "nowMB": 2881
+    },
+    "brain": {
+      "peakMB": 3023,
+      "nowMB": 3023
+    },
+    "translator": {
+      "peakMB": 2497,
+      "nowMB": 2490
+    }
+  },
+  "error": null,
+  "messages": [
+    {
+      "id": "m_0b1adc99e092",
+      "role": "user",
+      "ru": "Слушай, у меня сегодня какой-то дурдом. С утра всё наперекосяк: проспал, кофе на себя пролил, на работе начальник мозги вынес из-за какой-то ерунды. А вечером ещё друг зовёт встретиться, и вроде хочется развеяться, но я уже вообще никакой.\n\nСамое смешное, что я ему вчера сам написал, мол, давай увидимся. А теперь сижу и думаю, как бы красиво слиться, чтобы он не обиделся. Хотя он меня и так подкалывает, что я вечно куда-то пропадаю.\n\nКороче, я уже сам себя достал. Ты как думаешь, забить на всё и остаться дома или всё-таки выбраться? Только давай без заумных советов и психологических лекций. Просто поговори со мной нормально, как человек, который реально понимает, о чём речь.",
+      "en": "Listen, I’m in a mess today. In the morning, everything went wrong: I slept through the night, spilled coffee on myself, and at work, my boss removed my brain because of some nonsense. In the evening, another person wants to meet up with me. It seems like I want to socialize, but I really don’t feel like it at all.\n\nThe most funny thing is that I actually wrote to him yesterday, saying we should meet up. Now I’m sitting here thinking about how to meet up nicely so he doesn’t get upset. Even though he always teases me by making me disappear somewhere all the time.\n\nIn short, I’ve really messed up myself. Do you think I should ignore it all and stay at home, or go out instead? Just don’t give me any complicated advice or psychological lectures. Just talk to me normally, like a person who really understands what’s going on.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:50:18.339Z"
+    },
+    {
+      "id": "m_e98453b734bb",
+      "role": "assistant",
+      "ru": "Эй, я понимаю. Утро было тяжелое. Спал всю ночь, кофе пролилось, а потом ещё какой-то боссский момент добавился. Это много всего для начала дня.\nСлушай, ты уже составил план встречи, значит, ты не будешь сидеть дома просто так, что тебе не хочется. То, что ты отправил сообщение, показывает, что ты хочешь это сделать. Если не обращать на это внимание, твои планы тоже рухнут.\nИди на улицу. Даже если тебе не хочется общаться, сидеть с кем-то — это совсем не то же самое, что активно пытаться быть в дружеской обстановке. Можешь тихо быть, можешь просто существовать с ними. Если сейчас тебе не по себе, это нормально. Не нужно навязывать хорошее настроение. Просто приходи к ним, выпей кофе (или чай, или что-то ещё), и посмотри, как будет.\nТо, что связано с твоим босом, не нужно исправлять сегодня. Это просто шум из прошлого. И твой друг тебя дразнит — это не так уж и страшно. Просто знай, что они на самом деле не злятся из-за того, что кто-то забирает мозг. Они просто делают шутку над твоей личностью.\nНу вот что я бы сказал: решайся выйти на улицу. Может быть, сразу не будет приятно, но это лучше, чем оставить день без каких-либо событий. И честно говоря, человек, который заставляет тебя исчезнуть, вряд ли будет лучшим человеком для проведения всей вечеринки. С кем ты действительно ждешь, тебе будет намного веселее.\nКогда твой друг планирует встретиться? Если у тебя есть это, можешь просто идти. Не нужно слишком много думать.",
+      "en": "Hey, I get it. That morning was rough. Sleeping through, coffee spill, then a boss thing to throw in the mix. That's a lot to start the day with.\n\nHere's the thing - you already made the plan to meet up, which means you're not going to stay home just because you don't feel like it. The fact that you sent the message shows you want to do this. Ignoring it would be letting your plans fall apart too.\n\nGo out. Even if you're not feeling social, sitting with someone is different from actively trying to force yourself to be social. You can be quiet, you can just exist with them. If you're not feeling it right now, that's okay. You don't have to force a good vibe. Just go to their place, have coffee (or tea, or whatever), and see how it feels.\n\nYour boss thing isn't something you need to fix today. It's just background noise from earlier. And your friend teases you - that's not a big deal. Just know that they're not actually mad about the brain-removing thing. They're just making fun of your personality.\n\nSo here's what I'd say: commit to going out. It might not feel good immediately, but it's better than letting the day end with nothing happening. And honestly, someone who makes you disappear is probably not the best person to spend a whole evening with anyway. You'll have way more fun with whoever's actually waiting for you.\n\nWhat time does your friend plan to meet? If you have that, you can just go. No overthinking needed.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 6311,
+        "brainMs": 45456,
+        "ttftMs": 12584,
+        "outMs": 2166,
+        "outWorkMs": 33313,
+        "firstRuMs": 20846,
+        "totalMs": 53933,
+        "genTokens": 492,
+        "tokPerSec": 11.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:51:12.275Z"
+    },
+    {
+      "id": "m_bb950e34c7cc",
+      "role": "user",
+      "ru": "Ну вот ты говоришь так, будто всё просто. А я ж не из-за лени дома хочу остаться, понимаешь? Просто батарейка села. И друг-то нормальный, не хочется его обламывать. Хотя, если честно, я уже сам не знаю, чего хочу. Ты бы на моём месте что сделал? Только не повторяй то же самое другими словами.",
+      "en": "Well, you say it like it’s simple. But I don’t want to stay at home because of laziness, you understand? It’s just that the battery has died. And the friend is fine; I don’t want to hurt him. But honestly, I don’t even know what I really want anymore. What would you do if you were in my place? Just don’t repeat the same thing in different words.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:51:12.277Z"
+    },
+    {
+      "id": "m_a8089e84e0b5",
+      "role": "assistant",
+      "ru": "Честно? Я бы делал что-то гораздо меньшее, чем ты думаешь. Не нужно выходить и устраивать какое-нибудь большое светское мероприятие. Можно просто прийти. Скажи: «Эй, я свободен, как насчет того, чтобы сходим мы на кофе?». И вот и всё. Никаких планов, никаких сложных действий.\nЕсли батарейка села, то ты ничего не сможешь сделать. Ничего страшного. Не нужно притворяться энергичным. Просто встань, доберись туда и будь там. Вот и вся суть. Приходить — это уже лучше, чем сидеть дома и прокручивать что-то или ничего не делать.\nИ у меня возникает ощущение: «Я не знаю, чего хочу». Это на самом деле довольно обычно, когда у тебя мало энергии. Ты не застрял в какой-то большой путанице. Ты просто застрял в уставшем состоянии. Но тебе не нужно все решать сразу. Можно просто провести вечер. Что-то маленькое. Один человек. Не нужно стараться быть лучшим собой или что-то в этом роде.\nА что, если ты сделаешь минимум? Просто встретимся. Если будет неудобно, ничего страшного. Если не очень хорошо, тоже ничего страшного. Ты уже отправил сообщение — вот что действительно важно. Ты уже действовал. Остальное — это просто то, что будет дальше.\nНу вот что бы я сделал: надень свою обувку, пойдёшь к тому месту, где твой друг, и придёшь. Если у тебя действительно нет настроения, это нормально. Можешь идти. Не нужно радоваться из-за этого. Просто будь рядом. А может быть, после этого у тебя появится немного больше энергии от общения, а может, и нет. В любом случае, у тебя не будет хуже, чем если бы ты провел всю ночь дома.\nВот ответ. Иди. Не стоит слишком много думать. У тебя уже есть план.",
+      "en": "Honestly? I'd be doing something way smaller than you think. You don't need to go out and have a big social thing. You could just show up. Say \"hey, I'm free, how about we grab a quick coffee?\" and that's it. No planning, no doing anything fancy.\n\nIf your battery is dead, you're not going to do much. That's fine. You don't have to pretend to be energetic. Just get up, get there, and be there. That's the whole thing. Showing up is already better than staying home scrolling or doing nothing.\n\nAnd I get the feeling of \"I don't know what I want.\" That's actually pretty common when your energy is low. You're not stuck in some grand state of confusion. You're just stuck in a tired spot. But you don't have to figure it all out at once. You can just get through the evening. One small thing. One person. No pressure to become your best self or anything.\n\nWhat if you did the minimum? Just meet up. If it's awkward, that's okay. If it's not great, that's okay too. You already sent the message - that's the part that matters. You took action. The rest is just what happens next.\n\nSo here's what I'd do: put on your shoes, walk to wherever your friend is, and show up. If you're really not in the mood, that's fine. You can still go. You don't have to be happy about it. Just be there. And maybe afterward, you'll get a little more energy from the interaction, or you might not. Either way, you won't be worse off than staying home all night.\n\nThat's the answer. Go. Don't overthink it. You already have the plan.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 2938,
+        "brainMs": 52129,
+        "ttftMs": 14531,
+        "outMs": 1167,
+        "outWorkMs": 36773,
+        "firstRuMs": 20005,
+        "totalMs": 56234,
+        "genTokens": 598,
+        "tokPerSec": 11.7
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:52:08.511Z"
+    },
+    {
+      "id": "m_fce78251081d",
+      "role": "user",
+      "ru": "Ладно, уговорил. Хотя не факт, что я вообще с дивана сегодня встану 😄 Слушай, а что ему написать-то? Только без официоза, а то ты иногда так формулируешь, будто я заявление в администрацию подаю. Надо коротко, по-дружески, можно с лёгким подколом.",
+      "en": "Okay, I managed to persuade him. But it’s not certain that I’ll actually get up from the sofa today 😄 Hey, what should I write to him? Just without any official tone—you sometimes phrase things like I’m submitting a application to the administration. It should be short and friendly, maybe with a little teasing.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:52:08.514Z"
+    },
+    {
+      "id": "m_1890a9907c37",
+      "role": "assistant",
+      "ru": "Отлично, что ты встал с дивана. Это первый шаг.\nЭто что-то короткое и дружелюбное, с немного шуткой:\nЭй! Наконец-то встал с дивана. Готова встретиться сегодня? Я принесла кофе (или что угодно, что тебе нравится), и я готова, удивительно, хорошо не исчезать сегодня. Скажи мне, во сколько будет удобно!\nОтлично. Коротко, тепло, отдает понятье за шутку и помогает тебе выйти. Не нужно слишком много думать об этом. Просто отправь его и иди встретиться с другом.",
+      "en": "Good job actually getting up from the sofa. That's the first step.\n\nHere's something short and friendly with a little teasing:\n\n\"Hey! Finally got up from the sofa. Ready to meet up today? I brought coffee (or whatever you prefer) and I'm willing to be surprisingly good at not disappearing today. Let me know what time works!\"\n\nThat's it. Short, warm, acknowledges the teasing by playing it back with a little joke, and gets you out the door. You don't need to overthink it. Just send it and go meet your friend.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 2231,
+        "brainMs": 24202,
+        "ttftMs": 13042,
+        "outMs": 1360,
+        "outWorkMs": 10654,
+        "firstRuMs": 16767,
+        "totalMs": 27793,
+        "genTokens": 320,
+        "tokPerSec": 13.7
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:52:36.307Z"
+    },
+    {
+      "id": "m_9e1d97f02345",
+      "role": "user",
+      "ru": "Короче, написал я ему, что всё-таки выберусь, но ненадолго. А он мне в ответ: «О, какие люди! Ты там случайно не заблудишься по дороге? А то мы тебя уже в Красную книгу занесли 😂».\n\nИ вот вроде понимаю, что рофлит, но я сегодня какой-то слишком восприимчивый. Как думаешь, он реально подкалывает по-доброму или уже задолбался от моих вечных отмен? И что ему ответить, чтобы тоже с юмором, но без перегиба?",
+      "en": "In short, I told him that I would definitely leave, but not for long. And he replied, “Oh, what kind of people! Are you maybe going to get lost along the way? We’ve already put you on the Red List 😂”. \n\nI guess I understand that he’s joking, but today I’m a bit too open-minded. Do you think he’s really teasing in a friendly way, or is he just tired of my constant delays? And what should I say in return, in a similar humorous tone, but without going too far?",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:52:36.310Z"
+    },
+    {
+      "id": "m_907fdf4d1ee9",
+      "role": "assistant",
+      "ru": "Да, он точно шутит. «Красная списка» и «ты заблудишь?» — это веселое, не злое. Он просто веселится с тобой. Знаешь, на самом деле он не злится из-за задержек — он шутит, потому что ты его друг, и просто дразнит как всегда.\nТак ты сможешь соответствовать этой энергии. Не стоит серьезно относиться, немного улыбнись и не будь таким трудным для себя. Он не злой, он просто такой, как всегда.\nВот что я бы предложил:\n«Красная список», а? Похоже, я теперь официально в этом деле 😄. Но лучше, чем заблудиться, да? По крайней мере, у меня есть пункт назначения.\nИли, если хочешь ещё короче:\nЯ постараюсь оставаться на главной дороге сегодня. Редский список — это для тех, кто теряется на своем диване.\nИли:\nДумаю, я попал в Красный список. В следующий раз я просто буду в списке «спонтанных» действий.\nГлавное — уметь использовать шутку с легкой самоиронией. Он это оценит, и так будет веселее, а не неловко. Сделаем это. Ты уже отправил первое сообщение, теперь просто отправь ещё одно и иди встретиться с другом.",
+      "en": "Yeah, he's definitely teasing. The \"Red List\" and \"are you going to get lost\" are playful, not mean. He's just having fun with you. You know he's not actually mad about the delays - he's making jokes because you're his friend and he's teasing in his usual way.\n\nSo you can match that energy. Keep it light, own the joke a little bit, and don't be too hard on yourself. He's not being mean, he's just being his normal self.\n\nHere's what I'd suggest:\n\n\"Red List, huh? Guess I'm officially on it then 😄. Better than getting lost though, right? At least I have a destination.\"\n\nOr if you want something even shorter:\n\n\"I'll try to stay on the main road today. The Red List is for people who get lost in their own sofa.\"\n\nOr:\n\n\"Guess I made it onto the Red List. Next time I'll just be on the 'spontaneous' list instead.\"\n\nThe key is to own the joke with a little self-irony. He'll appreciate that and it'll keep the vibe fun rather than awkward. You've got this. You already sent the first message, now just send one of those and go meet your friend.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3868,
+        "brainMs": 47684,
+        "ttftMs": 22177,
+        "outMs": 1200,
+        "outWorkMs": 23100,
+        "firstRuMs": 27172,
+        "totalMs": 52753,
+        "genTokens": 593,
+        "tokPerSec": 13.1
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:53:29.063Z"
+    },
+    {
+      "id": "m_5b18e9453594",
+      "role": "user",
+      "ru": "Слушай, вот что меня бесит. Я вроде сам решил выбраться, никто меня за язык не тянул. А теперь сижу, собираюсь и злюсь, будто меня кто-то насильно тащит. Сам себе проблемы придумываю, короче.\n\nИ ведь понимаю головой, что посижу часик, поболтаем, нормально всё будет. Но внутри такое чувство, будто мне ещё одну смену на работе отрабатывать. Это вообще как объяснить? Только не начинай про внутреннего ребёнка и прочую психологическую муть 😄",
+      "en": "Listen, this is what really annoys me. I basically decided to leave on my own, no one forced me to do it. Now I’m sitting here, planning things, and getting angry, as if someone is forcing me to stay. I’m just creating problems for myself, in short.\n\nI totally understand that I could sit for an hour, talk about things, and everything would be fine. But inside me, it feels like I still have to go through another shift at work. How can I explain that? Just don’t start talking about internal childishness and all those psychological issues 😄",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:53:29.065Z"
+    },
+    {
+      "id": "m_1da37e266985",
+      "role": "assistant",
+      "ru": "Ты не создаёшь проблем, ты просто делаешь обычный выбор. Ты решил остаться, потому что батарея села. Ничего страшного. Ты не навязываешься. Ты просто человек, у которого иногда бывают медленные утра, и в некоторые дни нужно немного больше отдыха.\nЧувство вины — это голос внутри тебя, который говорит, что ты должен делать что-то большее, но ты этого не делаешь. Ты сделал выбор, который разумен для твоего положения. Здесь нет никаких «должен». Не нужно чувствовать вину из-за этого.\nЭто простое объяснение: ты не заставил себя выходить на улицу. Ты принял решение, исходя из того, что тебе нужно. Это не проблема. Просто нужно честно оценить свои уровни энергии.\nИ то, что ты раздражаешься на себя, не значит, что ты делаешь что-то не так. Это просто значит, что ты слишком много думаешь. Можешь сказать ему: «Эй, на самом деле я немного раздражаюсь на себя за то, что планировала слишком много». Я сделал ошибку. Прости меня. Это будет смешно, и, наверное, он тоже засмеется. У тебя есть эта сила.\nТебе совсем не нужно объяснять ему это. Не нужно чувствовать вину. Можешь просто пойти к своему другу, посмотреть, хочешь ли остаться на вечер, а потом продолжить дальше. Вина только в твоей голове, а не в реальном мире.\nТак что ты хочешь делать? Пойдём встретиться, или останемся дома и посмотрим что-нибудь? В любом случае всё нормально. Ты не застряла. Ты просто человек, у которого был тяжелый утренний день, и сейчас решаешь, что делать дальше. Это не проблема. Это просто момент.\nКакой первый шаг? Открой свое сообщение и нажми отправить, или просто пойдёшь к тому месту, где твой друг. Любой. Не нужно слишком много думать.",
+      "en": "You're not creating problems, you're just taking a normal choice. You decided to stay in because your battery was low. That's fine. You're not forcing yourself. You're just being a human who sometimes has a slow morning and some days need a little extra rest.\n\nThe guilt you're feeling is your inner voice telling you that you should be doing something more, but you're not. You made a choice that was reasonable for your state. There's no \"should\" here. You don't have to feel guilty about it.\n\nHere's the simple explanation: you didn't force yourself to go out. You made a decision based on what you needed. That's not a problem. That's just being honest with yourself about your energy levels.\n\nAnd the fact that you're annoyed at yourself doesn't mean you're doing something wrong. It just means you're overthinking. You can tell him: \"Hey, actually I'm a little annoyed at myself for planning too much. I messed up. Forgive me.\" That would be funny and would probably make him laugh too. You have that power.\n\nYou don't need to explain it to him at all. You don't need to feel guilty. You can just go to your friend, see if you want to stay in the evening, and move on. The guilt is just in your head, not in the real world.\n\nSo what do you want to do? Go meet up, or stay home and watch something? Either way is fine. You're not stuck. You're just a person who had a rough morning and is now deciding what to do next. That's not a problem. It's just a moment.\n\nWhat's the first step? Open your message and hit send, or just walk to wherever your friend is. Either one. No overthinking needed.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3989,
+        "brainMs": 49931,
+        "ttftMs": 12179,
+        "outMs": 1381,
+        "outWorkMs": 36270,
+        "firstRuMs": 18539,
+        "totalMs": 55302,
+        "genTokens": 547,
+        "tokPerSec": 11.3
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:54:24.369Z"
+    },
+    {
+      "id": "m_4f767bac427c",
+      "role": "user",
+      "ru": "Прикинь, я всё-таки вышел. И знаешь что? Только от дома отошёл — уже как-то легче стало. А я тут полвечера драму разводил, будто меня не с другом встретиться зовут, а на каторгу отправляют.\n\nПравда, друг написал: «Только давай сегодня без твоих историй про начальника, а то я сам на больничный уйду 😂».\n\nНу замечательно, теперь мне ещё и рот на замок повесить? Или я опять на ровном месте завёлся? Скажи как есть, можешь даже чуть подколоть.",
+      "en": "Think about it—I actually got out of the house after all. And you know what? As soon as I left the house, it felt a little easier. But I spent half the evening dealing with drama, as if I wasn’t being invited to meet up with a friend, but instead being sent to penal labor.\n\nActually, my friend wrote: “Just let’s not talk about your stories about the boss today, otherwise I’ll have to go to the hospital 😂”.\n\nWell, that’s great. Now I even have to keep my mouth shut? Or am I stuck in a dead end again? Tell me what’s going on, you can even tease me a little.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:54:24.371Z"
+    },
+    {
+      "id": "m_2d603f1bb91e",
+      "role": "assistant",
+      "ru": "О, эта шутка про «хоспиталь» на самом деле очень смешная. Тебя не отправляют в отделение, ты просто дразнишься, потому что твой друг — настоящий мастер. Они говорят: «Если ты продолжишь рассказывать о своем начальнике, тебя отправят в больницу» — это просто шутка, что у тебя еще много работы, которую сегодня не можешь справиться. Это не настоящая угроза, это просто шутка.\nТы не застрял. Этот драматичный момент, наверное, был всего лишь несколько минут неловкости, и ты уже прошел мимо. То, что ты почувствовал себя лучше после выхода из дома, — это хороший знак: ты не застрял.\nЭто так: тебе не нужно молчать о историях про босса. Твой друг пошутил об этом, значит, ему нравится твой рабочий образ жизни. Это хороший знак! Это значит, что дружба настоящая и не под угрозой.\nНу, что ты хочешь делать? У тебя впереди вся вечер. Можно либо так:\nПойди встретиться с другом и поговори о боссе (и смейся над своими шутками)\n— Не говори о своем начальнике, просто наслаждайся временем с другом.\n— Ну и ладно, просто расслабься\nВсе нормально. Ты не выполняешь какую-то тяжелую работу — ты просто нормальный человек, у которого сегодня худой день, и хочется повеселиться с другом. Нет никакой штрафы за то, что ты человек.\nСкажи своему другу: «Хорошо, я не в больнице». Давай просто проведём время и посмеемся над историями о моём боссе. Тогда иди наслаждайся вечером. Сделаем это.",
+      "en": "Oh, that \"hospital\" joke is actually hilarious. You're not being sent to the ER, you're just being teased because your friend is a natural. They're saying \"if you keep talking about your boss, you'll be in the hospital\" - which is just them joking that you've got more work to do than you can handle today. It's not a real threat, it's just banter.\n\nYou're not stuck. The drama was probably just a couple of minutes of awkwardness, and you've already moved on. The fact that you felt better after leaving the house is a good sign - you're not trapped.\n\nHere's the thing: you don't need to keep your mouth shut about your boss stories. Your friend made a joke about it, which means they're comfortable with your work life. That's a good sign! It means the friendship is real and not threatened.\n\nSo what do you want to do? You've got the whole evening ahead of you. You can either:\n- Go meet your friend and talk about the boss (and laugh at your own jokes)\n- Not talk about your boss and just enjoy the time with your friend\n- Do neither and just chill\n\nAll are valid. You're not doing \"penal labor\" - you're just being a normal person who has a rough morning and wants to have fun with a friend. There's no penalty for being human.\n\nTell your friend: \"Good, I'm not in the hospital. Let's just hang out and laugh at my boss stories instead.\" Then go enjoy your evening. You've got this.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 4486,
+        "brainMs": 58392,
+        "ttftMs": 25516,
+        "outMs": 1885,
+        "outWorkMs": 31590,
+        "firstRuMs": 32278,
+        "totalMs": 64763,
+        "genTokens": 719,
+        "tokPerSec": 12.6
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:55:29.133Z"
+    },
+    {
+      "id": "m_bd97e65163b8",
+      "role": "user",
+      "ru": "Сделай краткий пересказ нашего разговора: что я рассказал, что решил и чем всё закончилось. 4–6 предложений.",
+      "en": "Provide a brief summary of our conversation: what I said, what I decided, and how it ended. 4–6 sentences.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:55:29.135Z"
+    },
+    {
+      "id": "m_afebbc244d73",
+      "role": "assistant",
+      "ru": "Сначала ты колебался, не выходя из дома после такого тяжелого утра, но в конце концов решила пойти на встречу с другом. Ты написал ему дружеское сообщение, и он ответил забавными шутками из «Черной списки» о том, как заблудиться. Вы почувствовали себя немного лучше после выхода из дома, но все еще беспокоились о разговоре и о том, не застряли ли мы в тупике. Твой друг пошутил, что если не рассказывать о твоем начальнике, им придется идти в больницу, и это заставило тебя понять, что не нужно молчать. Я посоветовал тебе сказать своему другу, что нормально рассказывать истории о твоем начальнике, ведь твой друг просто шутит. Ты решил встретиться с другом и насладиться вечером, не задумываясь.",
+      "en": "You initially hesitated to leave the house after a rough morning, but you eventually decided to go meet your friend. You wrote a friendly message to him, which he responded to with playful \"Red List\" jokes about getting lost. After leaving the house, you felt a bit better, but you were still worried about the conversation and whether you were stuck in a dead end. Your friend made a joke about not talking about your boss stories or they'd have to go to the hospital, which actually made you realize you don't need to keep your mouth shut. I advised you to tell your friend that it's fine to talk about your boss stories, since your friend is just teasing you. You've decided to meet your friend and enjoy the evening without overthinking it.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 874,
+        "brainMs": 27342,
+        "ttftMs": 12431,
+        "outMs": 1609,
+        "outWorkMs": 14230,
+        "firstRuMs": 17544,
+        "totalMs": 29826,
+        "genTokens": 352,
+        "tokPerSec": 13.1
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T15:55:58.963Z"
+    }
+  ],
+  "startedAt": "2026-10-26T15:50:14.004Z",
+  "finishedAt": "2026-10-26T15:55:59.402Z"
+}

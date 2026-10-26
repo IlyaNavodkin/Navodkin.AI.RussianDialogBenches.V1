@@ -1,5 +1,5 @@
 node_modules/
-data/
-data-bench/
-data-dialog/
+/data/
+/data-bench/
+/data-dialog/
 *.tmp

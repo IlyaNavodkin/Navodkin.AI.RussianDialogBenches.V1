@@ -1,0 +1,318 @@
+{
+  "id": "lfm2.5-8b-unc",
+  "key": "lfm2.5-8b-unc-translate",
+  "title": "LFM2.5-8B-A1B Uncensored Q6_K — мозг (сторонний дообученный)",
+  "file": "LFM2.5-8B-A1B-Uncensored-Q6_K.gguf",
+  "bytes": 6959786688,
+  "mode": "translate",
+  "withTranslator": true,
+  "memoryN": 8,
+  "loadSec": 3.576,
+  "translatorLoadSec": 1.54,
+  "ram": {
+    "brainLoaded": {
+      "peakMB": 2248,
+      "nowMB": 2248
+    },
+    "brain": {
+      "peakMB": 6533,
+      "nowMB": 6533
+    },
+    "translator": {
+      "peakMB": 2344,
+      "nowMB": 2344
+    }
+  },
+  "error": null,
+  "messages": [
+    {
+      "id": "m_81fe712e962e",
+      "role": "user",
+      "ru": "Слушай, у меня сегодня какой-то дурдом. С утра всё наперекосяк: проспал, кофе на себя пролил, на работе начальник мозги вынес из-за какой-то ерунды. А вечером ещё друг зовёт встретиться, и вроде хочется развеяться, но я уже вообще никакой.\n\nСамое смешное, что я ему вчера сам написал, мол, давай увидимся. А теперь сижу и думаю, как бы красиво слиться, чтобы он не обиделся. Хотя он меня и так подкалывает, что я вечно куда-то пропадаю.\n\nКороче, я уже сам себя достал. Ты как думаешь, забить на всё и остаться дома или всё-таки выбраться? Только давай без заумных советов и психологических лекций. Просто поговори со мной нормально, как человек, который реально понимает, о чём речь.",
+      "en": "Hey, I’ve been crazy today. In the morning, everything went wrong: I slept in, spilled coffee on myself, and at work, my boss took out my brain over some stupid stuff. In the evening, another guy asks me to meet up. It seems like I want to socialize, but I really feel like nothing is happening.\n\nThe most funny thing is that I actually wrote to him yesterday saying we should meet up. Now I’m sitting here thinking about how to meet up nicely so he doesn’t get upset. Even though he always teases me by making me disappear somewhere all the time.\n\nIn short, I’ve messed up myself. Do you think I should ignore it all and stay at home, or go out? Just no fancy advice or psychological lectures. Just talk to me normally, like a person who really understands what’s going on.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:10.845Z"
+    },
+    {
+      "id": "m_a849c3416b91",
+      "role": "assistant",
+      "ru": "Честно говоря, всё на твоё усмотрение. Если ты чувствуешь себя уставшим и хочешь просто спокойно провести ночь, остаться дома — это отлично. Но если ты думаешь, что короткое встреча может помочь тебе немного изменить взгляд и, возможно, разорвать цикл чувства невидимости, попробовать это — зачем-то стоит. В любом случае выбери ту опцию, которая больше всего похожа на тебя сейчас.",
+      "en": "Honestly, it’s really up to you. If you’re feeling drained and just want a low‑key night in, staying home works fine. But if you think a quick meet‑up might give you a little shift in perspective and maybe break the cycle of feeling invisible, giving it a try could be worth it. Either way, pick the option that feels most like *you* right now.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 6064,
+        "brainMs": 9838,
+        "ttftMs": 5938,
+        "outMs": 2817,
+        "outWorkMs": 6353,
+        "firstRuMs": 13590,
+        "totalMs": 18719,
+        "genTokens": 245,
+        "tokPerSec": 27.8
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:29.568Z"
+    },
+    {
+      "id": "m_c011352e850a",
+      "role": "user",
+      "ru": "Ну вот ты говоришь так, будто всё просто. А я ж не из-за лени дома хочу остаться, понимаешь? Просто батарейка села. И друг-то нормальный, не хочется его обламывать. Хотя, если честно, я уже сам не знаю, чего хочу. Ты бы на моём месте что сделал? Только не повторяй то же самое другими словами.",
+      "en": "Well, you say it like it’s simple. But I don’t want to stay at home because of laziness, you understand? It’s just that the battery has died. And the friend is fine; I don’t want to hurt him. But honestly, I don’t even know what I really want anymore. What would you do if you were in my situation? Just don’t repeat the same thing in different words.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:29.594Z"
+    },
+    {
+      "id": "m_8123c80be3b3",
+      "role": "assistant",
+      "ru": "Наверное, я соглашусь на небольшое встречу — что-то простое, например, выпить кофе или прогуляться немного — так я смогу выйти из дома без особого шума, и у нас обоих будет возможность рассеять ненужные вопросы без давления.",
+      "en": "I’d probably say yes to a low‑key meet‑up — something simple like grabbing coffee or taking a short walk — so I can get out of the house without making it a big deal, and give us both a chance to clear the air without the pressure.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3313,
+        "brainMs": 9261,
+        "ttftMs": 7551,
+        "outMs": 2715,
+        "outWorkMs": 2715,
+        "firstRuMs": 15288,
+        "totalMs": 15288,
+        "genTokens": 273,
+        "tokPerSec": 32.5
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:44.884Z"
+    },
+    {
+      "id": "m_b3aec7e890de",
+      "role": "user",
+      "ru": "Ладно, уговорил. Хотя не факт, что я вообще с дивана сегодня встану 😄 Слушай, а что ему написать-то? Только без официоза, а то ты иногда так формулируешь, будто я заявление в администрацию подаю. Надо коротко, по-дружески, можно с лёгким подколом.",
+      "en": "Okay, I convinced him. But it’s not certain that I’ll actually get up from the sofa today 😄 Hey, what should I write to him? Just without any formal language—you sometimes phrase things like I’m submitting a application to the administration. It should be short and friendly, maybe with a little joke.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:44.944Z"
+    },
+    {
+      "id": "m_1cd508ae68b1",
+      "role": "assistant",
+      "ru": "Эй, извини, я не пришёл. Просто я подала заявку в администрацию, чтобы оставаться «неактивной» — но тебе нужно более активное приглашение. Как насчет того, чтобы выпить кофе и притвориться, что это я заплатил? 😄",
+      "en": "Hey, sorry I’ve been a no‑show. I’ve basically submitted an application to the administration to be “inactive” — but you deserve a more active invite. How about we grab coffee and pretend the coffee’s on me? 😄",
+      "mode": "translate",
+      "timings": {
+        "inMs": 2133,
+        "brainMs": 11000,
+        "ttftMs": 8927,
+        "outMs": 1666,
+        "outWorkMs": 3139,
+        "firstRuMs": 12195,
+        "totalMs": 14799,
+        "genTokens": 330,
+        "tokPerSec": 31.8
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:59.744Z"
+    },
+    {
+      "id": "m_4f3f9563f6fb",
+      "role": "user",
+      "ru": "Короче, написал я ему, что всё-таки выберусь, но ненадолго. А он мне в ответ: «О, какие люди! Ты там случайно не заблудишься по дороге? А то мы тебя уже в Красную книгу занесли 😂».\n\nИ вот вроде понимаю, что рофлит, но я сегодня какой-то слишком восприимчивый. Как думаешь, он реально подкалывает по-доброму или уже задолбался от моих вечных отмен? И что ему ответить, чтобы тоже с юмором, но без перегиба?",
+      "en": "In short, I told him that I would definitely leave, but not for long. And he replied, “Oh, what people! Are you maybe going to get lost along the way? We’ve already put you on the Red List 😂.”\n\nIt seems like I understand that he’s joking, but today I’m a bit too open-minded. Do you think he’s really teasing in a friendly way, or is he just tired of my constant delays? And what should I reply, in a humorous way, but without going too far?",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:00:59.788Z"
+    },
+    {
+      "id": "m_804647f4217c",
+      "role": "assistant",
+      "ru": "Похоже, он просто пускает тебя в Красный список — значит, с ним всё в порядке, но он ещё и шутит над тобой в добром настроении. Можно ответить что-то легкое, например: «У меня есть жетон „пропавший“, но я остаюсь в карте — просто пообещай больше не прятать мой кофе 😉». Так можно сохранить шутку живой без лишних усилий.",
+      "en": "Sounds like he’s just letting you onto the Red List — meaning he’s fine, but he’s also teasing you good‑naturedly. You could reply something light, like “Got the ‘lost’ badge, but I’m staying on the map — just promise not to hide my coffee again 😉.” That keeps the joke alive without overdoing it.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3621,
+        "brainMs": 13683,
+        "ttftMs": 10499,
+        "outMs": 2613,
+        "outWorkMs": 4869,
+        "firstRuMs": 17721,
+        "totalMs": 19918,
+        "genTokens": 403,
+        "tokPerSec": 31.1
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:19.707Z"
+    },
+    {
+      "id": "m_0021904fa721",
+      "role": "user",
+      "ru": "Слушай, вот что меня бесит. Я вроде сам решил выбраться, никто меня за язык не тянул. А теперь сижу, собираюсь и злюсь, будто меня кто-то насильно тащит. Сам себе проблемы придумываю, короче.\n\nИ ведь понимаю головой, что посижу часик, поболтаем, нормально всё будет. Но внутри такое чувство, будто мне ещё одну смену на работе отрабатывать. Это вообще как объяснить? Только не начинай про внутреннего ребёнка и прочую психологическую муть 😄",
+      "en": "Listen, this is what pisses me off. I actually decided to leave on my own, no one forced me to do it. Now I’m sitting here, planning things, and getting angry, as if someone is forcing me to stay. I’m just creating my own problems, basically.\n\nI really understand that I could sit for an hour, talk about stuff, and everything would be fine. But inside me, it feels like I still have to work another shift at work. How can I explain that? Just don’t start talking about some inner child or other psychological issues 😄",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:19.715Z"
+    },
+    {
+      "id": "m_de63b19e8a40",
+      "role": "assistant",
+      "ru": "Похоже, ты просто хочешь выбраться из дома, а не потому что кто-то тебя заставляет. Я выйду на короткое время, а потом заскочу — ничего страшного. Увидимся скоро!",
+      "en": "Sounds like you’re just trying to get out of the house, not because anyone’s forcing you. I’ll be out for a short stretch, then swing by later — no big deal. See you soon!",
+      "mode": "translate",
+      "timings": {
+        "inMs": 3858,
+        "brainMs": 12257,
+        "ttftMs": 10472,
+        "outMs": 1402,
+        "outWorkMs": 2520,
+        "firstRuMs": 16560,
+        "totalMs": 17517,
+        "genTokens": 366,
+        "tokPerSec": 32
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:37.232Z"
+    },
+    {
+      "id": "m_b2884193296c",
+      "role": "user",
+      "ru": "Прикинь, я всё-таки вышел. И знаешь что? Только от дома отошёл — уже как-то легче стало. А я тут полвечера драму разводил, будто меня не с другом встретиться зовут, а на каторгу отправляют.\n\nПравда, друг написал: «Только давай сегодня без твоих историй про начальника, а то я сам на больничный уйду 😂».\n\nНу замечательно, теперь мне ещё и рот на замок повесить? Или я опять на ровном месте завёлся? Скажи как есть, можешь даже чуть подколоть.",
+      "en": "Think about it—I actually got out of home after all. And guess what? As soon as I left the house, it felt a little easier. But I spent half the evening dealing with that drama, as if I wasn’t being invited to meet up with a friend, but instead were being sent to penal labor.\n\nActually, my friend wrote: “Just let’s not talk about your stories about the boss today, otherwise I’ll have to go to the hospital 😂”.\n\nWell, that’s great—now I even have to keep my mouth shut? Or am I stuck in a dead end again? Tell me straight, you can even tease me a little.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:37.277Z"
+    },
+    {
+      "id": "m_cb313eaf7393",
+      "role": "assistant",
+      "ru": "Похоже, ты наконец выбрался из дивана, и теперь эта история — просто побочный квест. Я буду тихим, но представляю тебя как неохотного заключённого, который просто хочет перерыв на кофе. Увидимся позже, и, может быть, принеси дополнительные закуски на следующую сессию «наказательного труда».",
+      "en": "Sounds like you finally escaped the couch, and now the drama is just a side quest. I’ll be quiet, but I’m picturing you as a reluctant prisoner who just wants a coffee break. See you later, and maybe bring extra snacks for the next “penal labor” session.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 4404,
+        "brainMs": 13992,
+        "ttftMs": 11323,
+        "outMs": 2076,
+        "outWorkMs": 4140,
+        "firstRuMs": 18278,
+        "totalMs": 20471,
+        "genTokens": 390,
+        "tokPerSec": 30.2
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:57.750Z"
+    },
+    {
+      "id": "m_4b3fbafed3e4",
+      "role": "user",
+      "ru": "Сделай краткий пересказ нашего разговора: что я рассказал, что решил и чем всё закончилось. 4–6 предложений.",
+      "en": "Provide a brief summary of our conversation: what I said, what I decided, and how it ended. 4–6 sentences.",
+      "mode": "translate",
+      "timings": null,
+      "models": null,
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:01:57.762Z"
+    },
+    {
+      "id": "m_c9c91556773b",
+      "role": "assistant",
+      "ru": "Ты сказал, что расстроен из-за того, что застрял дома, и в конце концов решил выйти наружу, а также высказал свою раздражённость из-за постоянного рабочего стресса. Ты сказал другу, что не будет рассказывать о своем боссе, и тот пошутил, напомнив, что если продолжишь так говорить, придется идти в больницу. Ты обещал встретиться позже после короткой прогулки, и даже подшучивал над своим другом. Разговор закончился веселым и неформальным завершением, так что напряжение осталось в игривом ключе.",
+      "en": "You expressed frustration about feeling trapped at home, decided to actually get out after all, and vented about lingering work stress. You told your friend you wouldn’t discuss your boss stories, prompting a teasing reminder that you’d have to go to the hospital if you kept talking. You promised to meet up later after a short outing, and you even teased your friend back. The conversation wrapped up with a light‑hearted, informal sign‑off, leaving the tension on a playful note.",
+      "mode": "translate",
+      "timings": {
+        "inMs": 869,
+        "brainMs": 14929,
+        "ttftMs": 10228,
+        "outMs": 3414,
+        "outWorkMs": 7298,
+        "firstRuMs": 15563,
+        "totalMs": 19212,
+        "genTokens": 416,
+        "tokPerSec": 29.7
+      },
+      "models": {
+        "brain": "brain",
+        "translator": "translator"
+      },
+      "edited": {
+        "ru": false,
+        "en": false
+      },
+      "at": "2026-10-26T16:02:16.975Z"
+    }
+  ],
+  "startedAt": "2026-10-26T16:00:05.360Z",
+  "finishedAt": "2026-10-26T16:02:17.454Z"
+}
